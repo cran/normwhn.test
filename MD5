@@ -1,0 +1,9 @@
+769ea3c125c791110f5dfa3a9b556a3b *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+4c6e325d047a7d4f2fd9868b0724c716 *R/normality.test1.R
+dc08b900245a9ed79a2f6612cbc9bbb7 *R/normality.test2.R
+a8959b79163c7d90d0de22dc75d3c01a *R/whitenoise.test.R
+ac587afa8efeb0e0713624ec8fef15b8 *man/normality.test1.Rd
+8dbfee120817e97be4799f4886b605e6 *man/normality.test2.Rd
+5da65e10cb30e49d5311ca934d001225 *man/normwhn.test-package.Rd
+bf53d69b94003f8e744c9ee6be96df72 *man/whitenoise.test.Rd
